@@ -6,7 +6,7 @@ const conf = require("../set");
 
 
 
-zokou({ nomCom: "David", categorie: "General", reaction: "💞" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "Carina", categorie: "General", reaction: "💞" }, async (dest, zk, commandeOptions) => {
 
     const { ms , mybotpic } = commandeOptions;
 
@@ -112,7 +112,7 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
 
     const devs = [
 
-      { nom: "David Cyril", numero: "2349066528353" },
+      { nom: "Carina", numero: "2348026340055" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
 
     ];
